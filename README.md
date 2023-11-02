@@ -36,3 +36,6 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitamohanta23&" alt="anitamohanta23" /></p>
 -->
+
+<h2><b><i> Thank you for visiting my profile</i><b></h2>
+<hr><hr>
