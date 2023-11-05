@@ -38,6 +38,8 @@
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitamohanta23&" alt="anitamohanta23" /></p>
 -->
+<img width="500" src="https://raw.githubusercontent.com/2KAbhishek/2KAbhishek/master/assets/gen/metrics.svg" />
+
 
 <h2><b><i> Thank you for visiting my profile</i><b></h2>
 <hr><hr>
