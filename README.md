@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anita Mohanta🎀</h1>
 <h3 align="center">A passionate frontend developer from India<h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/13b486d971f17b46ffd6cda9cb2699a71d0c784d53d75eddfb345e2000f46824/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anitamohanta23&label=Profile%20views&color=0e75b6&style=flat" alt="anitamohanta23" /> </p>
 
